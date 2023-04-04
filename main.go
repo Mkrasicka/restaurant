@@ -46,6 +46,9 @@ func main() {
 		latLong: [2]float64{37.7749, -122.4194},
 		methods: "pickup",
 	}
+	// restaurants := []Restaurant is declaring a variable named restaurants and initializing it with an empty slice of type Restaurant.
+	// In the given code, restaurants is a slice of Restaurant objects that represents a list of restaurants,
+	// which can be later populated with individual Restaurant objects.
 
 	restaurants := []Restaurant{
 		{
