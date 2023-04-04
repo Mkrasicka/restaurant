@@ -165,3 +165,4 @@ func degreesToRadians(degrees float64) float64 {
 // Keep main clean, call another function from inside it.
 // https://codesource.io/how-to-use-array-of-structs-in-golang/
 // https://gobyexample.com/functions
+// https://go.dev/tour/methods/14
